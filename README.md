@@ -7,12 +7,9 @@
 A comprehensive <b>Data Analytics</b> project developed using <b>Python</b> to perform data cleaning, exploratory data analysis (EDA), customer segmentation, and sales trend analysis. The project leverages statistical visualization techniques to uncover meaningful business insights that support data-driven business decisions.
 
 </p>
+<p align ="center">
+<img src="assets/diwali-sales-analysis-cover.png" width="100%">
 
-<p align="center">
-
-<img src="assets/project-overview.png" width="100%" alt="Diwali Sales Analysis">
-
-</p>
 
 <p align="center">
 
@@ -159,6 +156,89 @@ The project includes multiple visualizations that help uncover hidden trends and
 
 ---
 
+## 👥 Gender-wise Sales Analysis
+
+<p align="center">
+
+<img src="assets/gender-analysis.png" width="85%" alt="Gender-wise Sales Analysis">
+
+</p>
+
+### 🔍 Key Insight
+
+The analysis indicates that female customers contributed a significantly higher share of total purchases compared to male customers, highlighting them as the primary target audience during the festive shopping season.
+
+---
+## 🎂 Age Group Analysis
+
+<p align="center">
+
+<img src="assets/age-analysis.png" width="85%" alt="Age Group Analysis">
+
+</p>
+
+### 🔍 Key Insight
+
+Customers aged **26–35 years** represented the highest purchasing segment, making this age group a key contributor to overall festive sales.
+
+---
+## 🌍 State-wise Sales Analysis
+
+<p align="center">
+
+<img src="assets/state-analysis.png" width="85%">
+
+</p>
+
+### 🔍 Key Insight
+
+The highest sales were generated from **Uttar Pradesh, Maharashtra, and Karnataka**, highlighting these states as key revenue-driving markets.
+
+---
+
+## 💼 Occupation-wise Sales Analysis
+
+<p align="center">
+
+<img src="assets/occupation-analysis.png" width="85%">
+
+</p>
+
+### 🔍 Key Insight
+
+Customers working in **IT, Healthcare, and Aviation** recorded the highest purchasing activity, indicating strong spending potential within these professional groups.
+
+---
+
+## 🛍️ Product Category Analysis
+
+<p align="center">
+
+<img src="assets/product-category-analysis.png" width="85%">
+
+</p>
+
+### 🔍 Key Insight
+
+Food, Clothing, and Electronics emerged as the top-performing product categories, contributing significantly to total festive sales.
+
+---
+
+## 📦 Top Selling Products
+
+<p align="center">
+
+<img src="assets/top-product-analysis.png" width="85%">
+
+</p>
+
+### 🔍 Key Insight
+
+A small number of products accounted for a large share of overall sales, demonstrating the importance of focusing on high-demand products during peak shopping periods.
+
+---
+
+
 ## 💡 Key Business Insights
 
 The analysis uncovered several meaningful insights that can support strategic business decisions.
@@ -172,3 +252,103 @@ The analysis uncovered several meaningful insights that can support strategic bu
 
 ---
 
+## 📂 Repository Structure
+
+```text
+Diwali-Sales-Analysis
+│
+├── assets
+│   ├── README.md
+    ├── diwali-sales-analysis.png
+│   ├── gender-analysis.png
+│   ├── age-analysis.png
+│   ├── marital-status-analysis.png
+│   ├── state-analysis.png
+│   ├── occupation-analysis.png
+│   ├── product-category-analysis.png
+│   └── top-product-analysis.png
+│
+├── source
+│   ├── README.md
+│   ├── Diwali Sales Analysis.ipynb
+│   └── Diwali Sales Data.csv
+│
+├── LICENSE
+└── README.md
+```
+
+---
+## 👩‍💻 Author
+
+<table>
+<tr>
+
+<td width="68%">
+
+### Garima Sharma
+
+**Final-Year B.Tech Computer Science Engineering Student**
+
+📊 **Aspiring Data Analyst** | 📈 **Business Intelligence Enthusiast** | 🤖 **AI & Machine Learning Learner**
+
+Passionate about transforming raw data into meaningful insights through data analytics, interactive dashboards, and business intelligence solutions. I enjoy solving real-world problems using data, building impactful analytical projects, and continuously expanding my expertise in analytics, visualization, and machine learning.
+
+### 📬 Connect with Me
+
+📧 **Email:**  
+garima140401@gmail.com
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/garima-sharma33
+
+🐙 **GitHub:**  
+https://github.com/garima140401
+
+</td>
+
+<td align="center" width="32%">
+
+### 🚀 Core Interests
+
+📊 Data Analytics
+
+📈 Business Intelligence
+
+📉 Data Visualization
+
+🐍 Python for Data Analysis
+
+🤖 Machine Learning
+
+🔍 Exploratory Data Analysis
+
+💡 Problem Solving
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collaborating on:
+
+- 📊 Data Analytics & Business Intelligence Projects
+- 🤖 AI & Machine Learning Projects
+- 📈 Data Visualization & Dashboard Development
+- 🔬 Research & Academic Collaborations
+- 💼 Internship Opportunities
+
+If you have feedback, ideas, or collaboration opportunities, feel free to connect. I'm always excited to learn, build, and contribute to meaningful projects.
+
+---
+
+<p align="center">
+
+### ⭐ If you found this project helpful, consider giving it a star!
+
+**Thank you for visiting my repository. Happy Exploring! 🚀**
+
+</p>
